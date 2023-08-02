@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 O projeto "Biblioteca Ebanx" é uma modelagem do banco de dados para uma biblioteca, onde é possível armazenar informações sobre os livros disponíveis no acervo, seus autores, categorias e localizações na biblioteca. 
-![Modelagem do Banco de Dados](Model/modelagem_dbdiagram.png)
+[![Modelagem do Banco de Dados](Model/modelagem_dbdiagram.png)](https://dbdiagram.io/d/64c99c1602bd1c4a5e148ce5){:target="_blank"}
 ## Como Executar o Projeto
 
 Para executar o projeto, siga as etapas abaixo:
